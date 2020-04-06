@@ -9,4 +9,8 @@ Each volunteer was issued an ID for anonimity.  A dropdown menu is included from
 
 Dashboard Image:
 
-[!alt text](
+![alt text](https://github.com/Al-Huneidi/plotly_deploy/blob/master/screenshots/dashboard.png)
+
+Hover Results on Bar Chart Image:
+
+![alt text](
