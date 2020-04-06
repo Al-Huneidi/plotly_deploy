@@ -18,3 +18,6 @@ Hover Results on Bar Chart Image:
 Hover Results on Bubble Chart:
 
 ![alt text](
+
+### Resource
+samples.json
