@@ -13,4 +13,8 @@ Dashboard Image:
 
 Hover Results on Bar Chart Image:
 
+![alt text](https://github.com/Al-Huneidi/plotly_deploy/blob/master/screenshots/dashboard_hover_bar_chart.png)
+
+Hover Results on Bubble Chart:
+
 ![alt text](
